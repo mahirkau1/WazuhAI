@@ -1,0 +1,44 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python environments
+venv/
+.venv/
+env/
+
+# Python cache / tooling
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Runtime data
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.log
+logs/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
