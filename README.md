@@ -1,4 +1,4 @@
-# 🛡️ AegisAI Agent
+#  AegisAI Agent
 
 AegisAI Agent is a defensive SOC / endpoint security project that reads Wazuh alerts, normalizes Windows telemetry, applies local detection and correlation rules, stores incidents in SQLite, and presents the results in a FastAPI dashboard. Higher-risk incidents can optionally be enriched with an AI-assisted analysis.
 
