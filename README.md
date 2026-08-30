@@ -60,10 +60,6 @@ AegisAgent/
 │   ├── storage.py
 │   └── wazuh_client.py
 ├── .env.example
-├── .gitignore
-├── requirements.txt
-├── setup.sh
-├── SECURITY.md
 └── README.md
 ```
 
