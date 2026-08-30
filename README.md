@@ -63,9 +63,7 @@ AegisAgent/
 ├── .gitignore
 ├── requirements.txt
 ├── setup.sh
-├── CONTRIBUTING.md
 ├── SECURITY.md
-├── LICENSE
 └── README.md
 ```
 
