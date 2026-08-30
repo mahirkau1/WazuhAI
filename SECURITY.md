@@ -2,7 +2,7 @@
 
 ## Scope
 
-AegisAI Agent is currently a development/lab defensive-security project. It processes security telemetry and may contain sensitive event data.
+ VELNOX is currently a development/lab defensive-security project. It processes security telemetry and may contain sensitive event data.
 
 ## Reporting a vulnerability
 
