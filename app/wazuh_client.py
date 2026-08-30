@@ -10,10 +10,6 @@ class WazuhIndexerClient:
         self.auth = (username, password)
 
     def get_alerts_since(self, since_iso: str, min_level: int = 3, size: int = 200):
-        """
-        Wazuh Indexer'daki wazuh-alerts-* index'inden, belirtilen zamandan
-        sonraki, belirli bir seviyenin uzerindeki alarmlari ceker.
-        """
         query = {
             "size": size,
             "sort": [{"timestamp": {"order": "asc"}}],
