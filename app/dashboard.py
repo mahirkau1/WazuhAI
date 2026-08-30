@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 load_dotenv(override=True)
 
-app = FastAPI(title="AegisAI Dashboard")
+app = FastAPI(title="VELNOX Dashboard")
 
 
 @app.get("/api/incidents")
@@ -108,7 +108,7 @@ HTML_PAGE = """
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>AegisAI &mdash; Security Operations Dashboard</title>
+<title>VELNOX &mdash; Security Operations Dashboard</title>
 <style>
     :root {
         --bg: #08090d;
@@ -364,7 +364,7 @@ HTML_PAGE = """
     <div class="logo">
         <div class="logo-icon">&#128737;</div>
         <div>
-            <div class="logo-text">AegisAI</div>
+            <div class="logo-text">VELNOX</div>
             <div class="logo-sub">Security Operations Dashboard</div>
         </div>
     </div>
