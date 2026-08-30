@@ -166,6 +166,3 @@ For security testing, use only systems you own or are explicitly authorized to t
 
 Planned areas include richer attack-story visualization, process/entity relationships, explainable UEBA baselines, MITRE coverage views, and additional defensive correlation rules.
 
-## License
-
-Released under the MIT License. See [LICENSE](LICENSE).
