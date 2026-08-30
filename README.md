@@ -1,6 +1,6 @@
-#  AegisAI Agent
+#  VELNOX 
 
-AegisAI Agent is a defensive SOC / endpoint security project that reads Wazuh alerts, normalizes Windows telemetry, applies local detection and correlation rules, stores incidents in SQLite, and presents the results in a FastAPI dashboard. Higher-risk incidents can optionally be enriched with an AI-assisted analysis.
+VELNOX is a defensive SOC / endpoint security project that reads Wazuh alerts, normalizes Windows telemetry, applies local detection and correlation rules, stores incidents in SQLite, and presents the results in a FastAPI dashboard. Higher-risk incidents can optionally be enriched with an AI-assisted analysis.
 
 > **Status:** Development / lab project. AegisAI is not a replacement for a production SIEM, EDR, incident-response process, or analyst validation.
 
