@@ -17,6 +17,3 @@ Please do not publish credentials, API keys, private logs, database contents, ho
 - Rotate any credential that may have been accidentally exposed.
 - Review AI-generated findings before taking response actions.
 
-## Supported versions
-
-Until stable releases are published, only the latest repository revision is considered actively maintained.
